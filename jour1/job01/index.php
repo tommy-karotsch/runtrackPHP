@@ -1,0 +1,16 @@
+<?php
+$str = "LaPlateforme";
+$str2 = "Vive";
+$str3 = "!";
+
+echo $str2, " ";
+echo $str;
+echo $str3, "<br>";
+
+$val = "6";
+echo $val, "<br>";
+echo $val + 4,"<br>";
+
+$myBool = true;  
+echo $myBool, "<br>";
+$myBool = false;
